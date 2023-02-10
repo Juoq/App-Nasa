@@ -2,7 +2,9 @@ import React from 'react'
 
 const FigureMarsRover = () => {
   return (
-    <div>FigureMarsRover</div>
+    <div>
+      
+    </div>
   )
 }
 
